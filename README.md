@@ -37,4 +37,12 @@ MIT License
 有Bug、功能建议直接提 Issue，欢迎PR优化。
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ncuxie/HourlyNotes-24hour-DesktopTimeLine&type=Date&theme=dark)](https://star-history.com/#ncuxie/HourlyNotes-24hour-DesktopTimeLine&Date)
+## Star History
+
+<a href="https://www.star-history.com/?repos=ncuxie%2FHourlyNotes-24hour-DesktopTimeLine&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ncuxie/HourlyNotes-24hour-DesktopTimeLine&type=date&theme=dark&legend=top-left&sealed_token=TolkZT0lvo6tAj3K2oXpqtCxBnMI1tKjI1dSSUz5OUhKv_1JIkgfwXITLk_HH7lvQXbritrayuT9SA17Rt8MNmJJ63CC0XbUu0wIT4vyX3MngFlxWMPmarxl3WJBzMJw75Xb-NI6UOQG-CW5cTc8roM4gv2RltQpHpY8MwASk8p613CCw3h_Be7MpTYs" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ncuxie/HourlyNotes-24hour-DesktopTimeLine&type=date&legend=top-left&sealed_token=TolkZT0lvo6tAj3K2oXpqtCxBnMI1tKjI1dSSUz5OUhKv_1JIkgfwXITLk_HH7lvQXbritrayuT9SA17Rt8MNmJJ63CC0XbUu0wIT4vyX3MngFlxWMPmarxl3WJBzMJw75Xb-NI6UOQG-CW5cTc8roM4gv2RltQpHpY8MwASk8p613CCw3h_Be7MpTYs" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ncuxie/HourlyNotes-24hour-DesktopTimeLine&type=date&legend=top-left&sealed_token=TolkZT0lvo6tAj3K2oXpqtCxBnMI1tKjI1dSSUz5OUhKv_1JIkgfwXITLk_HH7lvQXbritrayuT9SA17Rt8MNmJJ63CC0XbUu0wIT4vyX3MngFlxWMPmarxl3WJBzMJw75Xb-NI6UOQG-CW5cTc8roM4gv2RltQpHpY8MwASk8p613CCw3h_Be7MpTYs" />
+ </picture>
+</a>
