@@ -1,6 +1,7 @@
 # HourlyNotes-24hour-DesktopTimeLine
 
 一款极简WPF桌面备忘录，24小时时间轴按小时记录待办，单文件exe免安装运行。
+[![MIT License](https://img.shields.io/badge/license-MIT-green?flat-square)](LICENSE)
 
 <img width="270" height="345" alt="24小时时间轴界面" src="https://github.com/user-attachments/assets/76fa63d3-b9cc-4da8-952f-a6088148e0a7" />
 
@@ -34,3 +35,6 @@ MIT License
 ## 🤝 反馈与贡献
 
 有Bug、功能建议直接提 Issue，欢迎PR优化。
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ncuxie/HourlyNotes-24hour-DesktopTimeLine&type=Date&theme=dark)](https://star-history.com/#ncuxie/HourlyNotes-24hour-DesktopTimeLine&Date)
